@@ -2,7 +2,7 @@ This repository is to assit researchers who want to load LOLA11 challenge datase
 
 The LOLA data can be obtained from the [LOLA11 grand challenge website](https://lola11.grand-challenge.org) after registration.
 
-Note this repsoitory is not affiliated in any way with the LOLA11 challenge. 
+Note this repository is not affiliated in any way with the LOLA11 challenge. 
 
 ## Purpose
 
