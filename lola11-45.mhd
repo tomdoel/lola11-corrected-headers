@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = -190 -370 1055.85
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSize = 0.742188 0.742188 3
+ElementSpacing = 0.742188 0.742188 1.5
+DimSize = 512 512 251
+ElementType = MET_SHORT
+ElementDataFile = lola11-45.raw 
