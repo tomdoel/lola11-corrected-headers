@@ -4,6 +4,13 @@ The LOLA data can be obtained from the [LOLA11 grand challenge website](https://
 
 Note this repository is not affiliated in any way with the LOLA11 challenge. 
 
+Image data are not provided here. Copyright of image data remains with the original providers.
+
+Please respect the rules of the challenge and data copyright when downloading and using the data.
+
+The following is based on my understanding of the MetaIO standard. I do not guarantee accuracy so use this information at your own risk.
+
+
 ## Purpose
 
 The LOLA11 datasets are provided in METAIO (`.mhd/.raw`) format.
