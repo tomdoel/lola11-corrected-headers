@@ -1,4 +1,12 @@
-This repository is for researchers who have already registered and downloaded the [LOLA11 grand challenge datasets](https://lola11.grand-challenge.org).
+This repository is to assit researchers who want to load LOLA11 challenge datasets into MetaIO compatible applications such as PTK or ITK-Snap.
+
+The LOLA data can be obtained from the [LOLA11 grand challenge website](https://lola11.grand-challenge.org) after registration.
+
+Note this repsoitory is not affiliated in any way with the LOLA11 challenge. 
+
+## Purpose
+
+The LOLA11 datasets are provided in METAIO (`.mhd/.raw`) format.
 
 The `TransformMatrix` header fields for some of these datasets are not set correctly for loading into applications such as PTK or ITK-Snap.
 
