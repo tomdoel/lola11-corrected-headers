@@ -35,6 +35,6 @@ In general, the LOLA datasets with  `AnatomicalOrientation` set to `RAI` have co
 
 In addition, dataset 9 has the correct `TransformMatrix` but the `AnatomicalOrientation` should be `RAS`.
 
-Note: PTK and ITK-Snap will ignore the `AnatomicalOrientation` field if the `TransformMatrix` field is set; however it should always be consistent. However, the `AnatomicalOrientation` field ought to be be consistent with the `TransformMatrix` field).
+Note: PTK and ITK-Snap will ignore the `AnatomicalOrientation` field if the `TransformMatrix` field is set; however it should always be consistent. However, the `AnatomicalOrientation` field ought to be consistent with the `TransformMatrix` field).
 
 
